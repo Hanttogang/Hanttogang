@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+깃 스터디 화이팅
+
 <!--
 **Hanttogang/Hanttogang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
